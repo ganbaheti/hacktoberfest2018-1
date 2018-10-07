@@ -26,6 +26,12 @@ About: I'm a final year computing science student.
 Programming Languages: Java, C#, Javascript  
 Email: jilliankeenan1@gmail.com
 
+Name: Nurul Hassan (https://github.com/nurulhassan)
+Place: Jaipur,Rajasthan, India
+About: I'm in 3rd year IT student.  
+Programming Languages: HTML, CSS, Javascript, Bootsrap, C, C++, PHP  
+Email: nurulhassan2000@gmail.com
+
 
 
 Name: [Aditya Agrawal](https://github.com/silly-soul)<br/>
