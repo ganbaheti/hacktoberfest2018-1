@@ -154,7 +154,7 @@ Programming Language:c++,java,python
 Email: sam.mittal.2106@gmail.com  
 
 
-Name: [Gagan Baheti](Github Link)
+Name: Gagan Baheti
 Place: Udaipur
 About: I love competitive ccoding.
 Programming Language : c++,java,python
