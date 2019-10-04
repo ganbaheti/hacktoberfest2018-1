@@ -20,6 +20,7 @@ Programming Languages: Java, Python, C++<br/>
 Email: abhishek.mca18.du@gmail.com
 
 
+
 Name: Jillian Keenan  
 Place: Belfast, N.Ireland  
 About: I'm a final year computing science student.  
@@ -151,6 +152,13 @@ Place: Delhi,India
 About: currently pursuing B.Tech in computer science from MAIT.  
 Programming Language:c++,java,python  
 Email: sam.mittal.2106@gmail.com  
+
+
+Name: [Gagan Baheti](Github Link)
+Place: Udaipur
+About: I love competitive ccoding.
+Programming Language : c++,java,python
+Email: gaganbaheti99@gmail.com
 
 
 Name: [Keshav Gupta](https://github.com/kgupta786)
